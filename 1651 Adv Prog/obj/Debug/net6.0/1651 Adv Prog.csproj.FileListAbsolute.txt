@@ -1,0 +1,14 @@
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.AssemblyInfoInputs.cache
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.AssemblyInfo.cs
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.csproj.CoreCompileInputs.cache
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\bin\Debug\net6.0\1651 Adv Prog.exe
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\bin\Debug\net6.0\1651 Adv Prog.deps.json
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\bin\Debug\net6.0\1651 Adv Prog.runtimeconfig.json
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\bin\Debug\net6.0\1651 Adv Prog.dll
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\bin\Debug\net6.0\1651 Adv Prog.pdb
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.dll
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\refint\1651 Adv Prog.dll
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.pdb
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\1651 Adv Prog.genruntimeconfig.cache
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\1651 Adv Prog\1651 Adv Prog\obj\Debug\net6.0\ref\1651 Adv Prog.dll
