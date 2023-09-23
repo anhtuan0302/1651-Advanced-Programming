@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <Compile Remove="c03 - Abstract\Test.cs" />
+    <Compile Remove="c03 - Interface\Ex1 - Moveable\Test.cs" />
   </ItemGroup>
 
 </Project>
