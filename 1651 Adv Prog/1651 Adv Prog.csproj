@@ -8,4 +8,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="c01\**" />
+    <Compile Remove="c02 - Inheritance\**" />
+    <Compile Remove="c02 - Polymorphism\**" />
+    <EmbeddedResource Remove="c01\**" />
+    <EmbeddedResource Remove="c02 - Inheritance\**" />
+    <EmbeddedResource Remove="c02 - Polymorphism\**" />
+    <None Remove="c01\**" />
+    <None Remove="c02 - Inheritance\**" />
+    <None Remove="c02 - Polymorphism\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="c03 - Abstract\Test.cs" />
+  </ItemGroup>
+
 </Project>

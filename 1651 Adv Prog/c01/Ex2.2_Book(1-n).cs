@@ -68,7 +68,16 @@ namespace _1651_Adv_Prog.c01
 
         public override string ToString()
         {
-            return "Book [Name = " + Name + ", " + "Authors = {" + AuthorNames() + "}, Price = " + Price + ", Qty = " + Qty + "]";
+            string authorInfors = "";
+            for (int i = 0; i < Authors.Length; i++)
+            {
+                authorInfors += Authors[i].ToString();
+                if (i != Authors.Length - 1)
+                {
+                    authorInfors += ", ";
+                }
+            }
+            return "Book [Name = " + Name + ", " + "Authors = {" + authorInfors + "}, Price = " + Price + ", Qty = " + Qty + "]";
         }
     }
 }

@@ -23,10 +23,8 @@ namespace _1651_Adv_Prog.c02___Inheritance.Ex3___Shape
             set { _filled = value; }
         }
 
-        public Shape()
+        public Shape() : this ("green", true)
         {
-            this.Color = "green";
-            this.Filled = true;
         }
 
         public Shape(string color, bool filled)

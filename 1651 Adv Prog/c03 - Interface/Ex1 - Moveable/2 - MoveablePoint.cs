@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1651_Adv_Prog.c02___Inheritance.Ex1
+namespace _1651_Adv_Prog.c03___Interface.Ex1___Moveable
 {
-    public class Point2D
+    public class MoveablePoint : IMoveable
     {
         private int _x;
         private int _y;
@@ -23,11 +23,11 @@ namespace _1651_Adv_Prog.c02___Inheritance.Ex1
             set { _y = value; }
         }
 
-        public Point2D(): this(0, 0)
+        public MoveablePoint(): this(0, 0)
         {
         }
 
-        public Point2D(int x, int y)
+        public MoveablePoint(int x, int y)
         {
             this.X = x;
             this.Y = y;
@@ -35,7 +35,27 @@ namespace _1651_Adv_Prog.c02___Inheritance.Ex1
 
         public override string ToString()
         {
-            return "(" + X + ", " + Y + ")";
+            return "MoveablePoint [X = " + X + ", Y = " + Y + "]";
+        }
+
+        public void MoveUp()
+        {
+            Y++;
+        }
+
+        public void MoveDown()
+        {
+            Y--;
+        }
+
+        public void MoveLeft()
+        {
+            X--;
+        }
+
+        public void MoveRight()
+        {
+            X++;
         }
     }
 }

@@ -16,17 +16,13 @@ namespace _1651_Adv_Prog.c02___Inheritance.Ex1
             set { _z = value; }
         }
 
-        public Point3D()
+        public Point3D(): base()
         {
-            this.X = 0;
-            this.Y = 0;
             this.Z = 0;
         }
 
-        public Point3D(int x, int y, int z)
+        public Point3D(int x, int y, int z): base(x, y)
         {
-            this.X = x;
-            this.Y = y;
             this.Z = z;
         }
 
