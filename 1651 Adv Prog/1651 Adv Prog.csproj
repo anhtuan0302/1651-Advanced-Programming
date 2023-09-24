@@ -12,17 +12,18 @@
     <Compile Remove="c01\**" />
     <Compile Remove="c02 - Inheritance\**" />
     <Compile Remove="c02 - Polymorphism\**" />
+    <Compile Remove="c03 - Abstract\**" />
+    <Compile Remove="c03 - Interface\**" />
     <EmbeddedResource Remove="c01\**" />
     <EmbeddedResource Remove="c02 - Inheritance\**" />
     <EmbeddedResource Remove="c02 - Polymorphism\**" />
+    <EmbeddedResource Remove="c03 - Abstract\**" />
+    <EmbeddedResource Remove="c03 - Interface\**" />
     <None Remove="c01\**" />
     <None Remove="c02 - Inheritance\**" />
     <None Remove="c02 - Polymorphism\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Remove="c03 - Abstract\Test.cs" />
-    <Compile Remove="c03 - Interface\Ex1 - Moveable\Test.cs" />
+    <None Remove="c03 - Abstract\**" />
+    <None Remove="c03 - Interface\**" />
   </ItemGroup>
 
 </Project>
